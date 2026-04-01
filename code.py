@@ -3,11 +3,11 @@ def multiply(a,b):
         result= a*b
         return result
 
-print(multiply(a,b))
+print(multiply(5,5))
 
 #This is an addition function
 def add(a,b):
         result= a+b
         return result
 
-print(add(a,b))
+print(add(5,5))
