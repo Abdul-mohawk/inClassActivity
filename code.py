@@ -6,7 +6,7 @@ def multiply(a,b):
 print(multiply(a,b))
 
 #This is an addition function
-def add(a,b)
+def add(a,b):
         result= a+b
         return result
 
